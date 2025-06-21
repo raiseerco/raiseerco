@@ -39,11 +39,18 @@ and community growth intersect 🚀
 
 
 
-## 📊 Some stats
+ 
+## 📊 My current streak 
+![My current streak](https://github-readme-streak-stats.herokuapp.com/?user=raiseerco&)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raiseerco&show_icons=true&locale=en&layout=compact" alt="raiseerco" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raiseerco&" alt="raiseerco" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=raiseerco&show_icons=true" alt="raiseerco" /></p>
+ 
+## 📊 My top languages
+![My top languages](https://github-readme-stats.vercel.app/api/top-langs?username=raiseerco&show_icons=true&locale=en&layout=compact)
+
+                    
+## 📊 My GitHub stats
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=raiseerco&show_icons=true)
+
 
 
 
