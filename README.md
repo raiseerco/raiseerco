@@ -34,7 +34,7 @@ architectures that create lasting impact.
 I aim to contribute to projects where user experience, protocol safety,
 and community growth intersect 🚀
 ```
-#### _[💼 Check my full resume!](https://github.com/raiseerco/resume/readme.md)_
+#### _[💼 Check my full resume!](https://github.com/raiseerco/resume)_
 
 
 
